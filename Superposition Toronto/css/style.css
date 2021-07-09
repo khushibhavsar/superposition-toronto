@@ -4842,9 +4842,30 @@ p.video-lab-- {
     color: #bdbfca;
 }
 
+.footer-copyrights- {
+    padding: 10;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+}
+
 .footer-copyrights- a {
     color: #bdbfca;
     text-align: center;
+}
+
+.footer-copyrights->span {
+    color: #bdbfca;
+    text-align: center;
+    /**
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0 0 15px 0;
+    display: block;
+    font-weight: 900;
+    **/
 }
 
 .footer-link-- {
